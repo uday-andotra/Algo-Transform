@@ -1,4 +1,4 @@
-# 3SAT-to-ExperimentalCuisine-Reduction
+# 3SAT to ExperimentalCuisine Reduction
 
 ## Overview
 
